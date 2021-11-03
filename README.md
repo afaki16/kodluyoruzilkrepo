@@ -21,3 +21,5 @@ için bir konu açınız.
 ## License
 
  [MIT](https://choosealicense.com/)
+
+ ![GitHub İlk Repo](http://www.kodkaynagi.com/wp-content/uploads/2021/05/1_WaaXnUvhvrswhBJSw4YTuQ.png)
